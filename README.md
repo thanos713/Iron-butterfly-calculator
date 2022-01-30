@@ -29,11 +29,15 @@ It is important to note that this process has its limitations, because of its as
 ## Documentation
 Documentation is not available yet, but running the driver code is pretty straightforard. The example provided is for IEF (using real data from 01/28/2022) and below you can see the output:
 
-Max profit: 78.0 at 112.5.
-Max loss: -22.0 beyond 113.5 or 111.5.
-See fig.1 for more details.
-Expected utiliy (assuming no slippage and transaction costs): 16.34.
+Max profit: 78.0 at 112.5.<br/>
+Max loss: -22.0 beyond 113.5 or 111.5.<br/>
+See fig.1 for more details.<br/>
+Expected utiliy (assuming no slippage and transaction costs): 16.34.<br/>
 See fig.2 for more details.
+
+![alt text](https://github.com/thanos713/Iron-butterfly-calculator/blob/main/pnl.png?raw=true)
+![alt text](https://github.com/thanos713/Iron-butterfly-calculator/blob/main/histogram.png?raw=true)
+
 
 
 ## Credits
